@@ -1,19 +1,19 @@
 # Code Refactor for Horiseon
-* Coding Bootcamp - Assignment - Week 1 - Code Refacto 
+* Coding Bootcamp - Assignment - Week 1 - Code Refactor 
 
 <br>
 
-## Table of contents
-* [General info](#general-info)
+## Table of Contents
+* [General Info](#general-info)
 * [Live URL](#live-url)
 * [HTML Improvements](#HTML-Improvements)
-* [CSS Imptovements](#CSS-Imptovements)
-* [Webpage preview](#webpage-preview)
+* [CSS Improvements](#CSS-Improvements)
+* [Webpage Preview](#webpage-preview)
 * [Notes](#notes)
 
 <br>
 
-## General info
+## General Info
 Refactored the existing code for Horiseon webpage, to improve accessibility and to meet the standards, as  as customer's requirements.
 
 <br>
@@ -32,18 +32,18 @@ https://joyofcodinglife.github.io/Week1-A-Code-Refactor/
 - added a link to “Search Engine Optimisation”and added the ID;
 - improved the flow of semantic elements;
 - renamed some of the tags ids and classes to make the code cleaner;
-- added comments for different sections that correspond with comments in CCS file for easier navigation and reference. 
+- added comments for different sections that correspond with comments in CSS file for easier navigation and reference. 
 
 <br>
 
-## CSS Imptovements
+## CSS Improvements
 - consolidated the selectors due to duplications of styles;
 - reorganised the selectors to match the HMTL structure and logical flow;
 - added comments that match HTML file.
 
 <br>
 
-### Webpage preview
+### Webpage Preview
 The following image shows the web application's appearance and functionality:
 
 ![The Horiseon webpage includes a navigation bar, a header image,  cards with text and images at the bottom of the page, and side section with list of benefits](./assets/images/horiseon-webpage.png)
