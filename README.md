@@ -9,6 +9,7 @@
 * [HTML Improvements](#HTML-Improvements)
 * [CSS Imptovements](#CSS-Imptovements)
 * [Webpage preview](#webpage-preview)
+* [Notes](#notes)
 
 <br>
 
@@ -49,10 +50,10 @@ The following image shows the web application's appearance and functionality:
 
 <br>
 
-    Final Check
-    - all links are functioning correctly;
-    - the webpage appearance didn’t change, except of logo - I changed a color of “SEO” to a bit more standout option but with accordance with webpage color scheme;
-    - the webpage functionality didn’t change.
+### Notes
+- all links are functioning correctly;
+- the webpage appearance didn’t change, except of logo color of “SEO” to a bit more standout option but with accordance with webpage color scheme;
+- the webpage functionality didn’t change.
 
 ---
 © 2021 L Korolyova
