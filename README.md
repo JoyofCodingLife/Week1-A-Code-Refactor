@@ -14,7 +14,7 @@
 <br>
 
 ## General Info
-Refactored the existing code for Horiseon webpage, to improve accessibility and to meet the standards, as  as customer's requirements.
+Refactored the existing code for Horiseon webpage, as per customer's requirements, to improve accessibility and to meet the standards.
 
 <br>
 
@@ -52,7 +52,7 @@ The following image shows the web application's appearance and functionality:
 
 ### Notes
 - all links are functioning correctly;
-- the webpage appearance didn’t change, except of logo color of “SEO” to a bit more standout option but with accordance with webpage color scheme;
+- the webpage appearance didn’t change, except of the logo color of “SEO” to a bit more standout option but with accordance with webpage color scheme;
 - the webpage functionality didn’t change.
 
 ---
