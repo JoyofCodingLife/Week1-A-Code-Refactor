@@ -19,7 +19,7 @@ Refactored the existing code for Horiseon webpage, as per customer's requirement
 <br>
 
 ### Live URL
-https://joyofcodinglife.github.io/Week1-A-Code-Refactor/
+https://korolyovalara.github.io/Code-Refactor/
 
 <br>
 
